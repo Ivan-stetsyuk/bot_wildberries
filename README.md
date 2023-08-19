@@ -1,1 +1,1 @@
-# bot_wildberries
+Телеграмм бот для создания пропусков wildberries
